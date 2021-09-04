@@ -1,5 +1,5 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I am harshee pitroda a 4th year student at MPSTME doing Btech in computer engineering. 
+<h3 align="center">I am Harshee Pitroda a 4th year student at NMIMS ~ MPSTME doing Btech in computer engineering. 
 From my very first code that I had executed 
 “the hello world program” to up till now I’ve always loved the concept of 
 technology and how it produces results based on a given set of commands.
