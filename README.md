@@ -6,10 +6,11 @@ technology and how it produces results based on a given set of commands.
 Moreover, I’ve always been interested in the practical applications of 
 technology and how it changes the world around us. I love building projects 
 and also have a keen interest in learning new technologies
-    
-Check out my recent article : https://medium.com/@harshee.pitroda2910/part-1-live-streaming-sentiments-graph-of-covid-19-twitter-data-acf6b4f3d893
 </h3>
 
+<h4>   
+Check out my recent article : https://medium.com/@harshee.pitroda2910/part-1-live-streaming-sentiments-graph-of-covid-19-twitter-data-acf6b4f3d893
+</h4>
 
 ## 🙋‍♀️  About Me
 
