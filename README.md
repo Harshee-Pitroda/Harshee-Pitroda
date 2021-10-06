@@ -16,6 +16,7 @@ capability to pursue research and learn about
 the latest innovations in computer science,
 especially machine learning.
 
+Check out my recent article : https://medium.com/@harshee.pitroda2910/part-1-live-streaming-sentiments-graph-of-covid-19-twitter-data-acf6b4f3d893
 
 ## 🚀 Languages and Tools:
 
