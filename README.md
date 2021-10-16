@@ -70,3 +70,10 @@ especially machine learning.
 <a href = "https://www.linkedin.com/in/harshee-pitroda-790778212/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/harsheepitrodaa"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Harshee-Pitroda/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Harshee-Pitroda">
+</a>
+<a href="https://github.com/Harshee-Pitroda?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
