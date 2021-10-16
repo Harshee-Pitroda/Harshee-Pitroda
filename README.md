@@ -76,4 +76,4 @@ especially machine learning.
 <a href="https://github.com/Harshee-Pitroda/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Harshee-Pitroda">
 </a>
-<a href="https://github.com/Harshee-Pitroda?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Harshee-Pitroda?tab=followers"><img src="https://img.shields.io/github/followers/Harshee-Pitroda?label=Followers&style=social" alt="GitHub Badge"></a>
