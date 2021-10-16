@@ -72,7 +72,6 @@ especially machine learning.
 </p>
 
 
-## ❤ Views and Followers
 <a href="https://github.com/Harshee-Pitroda/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Harshee-Pitroda">
 </a>
