@@ -1,6 +1,6 @@
-<h1 align="center">Hello there! 
-<h3 align="center">
-</h3>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
 <p align="center">
     <a href=https://github-readme-streak-stats.herokuapp.com/?user=Harshee-Pitroda&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
