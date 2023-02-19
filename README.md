@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 
-<h3 align="center">I am Harshee Pitroda a 4
+<h3 align="center">
 </h3>
 
 <p align="center">
