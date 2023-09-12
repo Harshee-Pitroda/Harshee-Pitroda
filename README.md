@@ -66,6 +66,4 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harshee-Pitroda&theme=dracula)](https://git.io/streak-stats)
-
 <br/>
